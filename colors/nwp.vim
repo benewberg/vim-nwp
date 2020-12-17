@@ -29,7 +29,7 @@ let s:palette.keyword   = {'blacklodge': "#FBAD4D"}
 
 let s:palette.error     = {'blacklodge': "#5D110C"}
 let s:palette.accent    = {'blacklodge': "#C97D59"}
-let s:palette.panel     = {'blacklodge': "#1C1003"}
+let s:palette.panel     = {'blacklodge': "#6B5A67"}
 let s:palette.guide     = {'blacklodge': "#74574E"}
 let s:palette.line      = {'blacklodge': "#6B5A67"}
 let s:palette.selection = {'blacklodge': "#436176"}
