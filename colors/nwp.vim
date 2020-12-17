@@ -17,7 +17,7 @@ let s:palette = {}
 let s:palette.bg        = {'blacklodge': "#644647"}
 
 let s:palette.comment   = {'blacklodge': "#747B7D"}
-let s:palette.markup    = {'blacklodge': "#5D110C"}
+let s:palette.markup    = {'blacklodge': "#B3592E"}
 let s:palette.constant  = {'blacklodge': "#D83418"}
 let s:palette.operator  = {'blacklodge': "#E68429"}
 let s:palette.tag       = {'blacklodge': "#E66A4E"}
@@ -27,7 +27,7 @@ let s:palette.function  = {'blacklodge': "#C77928"}
 let s:palette.special   = {'blacklodge': "#3C2802"}
 let s:palette.keyword   = {'blacklodge': "#FBAD4D"}
 
-let s:palette.error     = {'blacklodge': "#B3592E"}
+let s:palette.error     = {'blacklodge': "#5D110C"}
 let s:palette.accent    = {'blacklodge': "#C97D59"}
 let s:palette.panel     = {'blacklodge': "#1C1003"}
 let s:palette.guide     = {'blacklodge': "#74574E"}
