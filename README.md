@@ -1,7 +1,5 @@
-# vim-nwp
-Northwest Passage - A Twin Peaks Inspired Color Scheme for Vim
-
-<img src="https://raw.githubusercontent.com/benewberg/vim-nwp/master/images/nwp.png">
+# <img src="https://raw.githubusercontent.com/benewberg/vim-nwp/master/images/nwp.png">
+A Twin Peaks Inspired Color Scheme for Vim
 
 <img src="https://raw.githubusercontent.com/benewberg/vim-nwp/master/images/example.png" width=640>
 
